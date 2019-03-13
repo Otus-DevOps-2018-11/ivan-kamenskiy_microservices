@@ -9,3 +9,5 @@ ivan-kamenskiy microservices repository
 none и host и посмотрите, как меняется список namespace-ов. 
 При использование драйвера none колличество неймспрейсов увеличивается
 при host неймспейсы не изменяются
+
+Добавлен reddit, gitlab-ci.yaml, docker-compose
