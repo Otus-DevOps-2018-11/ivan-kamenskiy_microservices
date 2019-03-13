@@ -11,3 +11,5 @@ none и host и посмотрите, как меняется список names
 при host неймспейсы не изменяются
 
 Добавлен reddit, gitlab-ci.yaml, docker-compose
+
+docker hub login 12313210313210321032 
