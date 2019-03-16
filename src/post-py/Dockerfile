@@ -9,6 +9,7 @@ RUN apk add --update \
     python \
     python-dev \
     py-pip \
+    musl-dev \
     build-base 
 RUN pip install -r /app/requirements.txt
 
